@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.50.0" timestamp="2023-06-07T22:18:12.820">
+<file name="src/main/java/labcodeinspection/Email.java">
+<violation beginline="3" endline="73" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="73" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#immutablefield" priority="3">
+ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="AvoidFieldNameMatchingTypeName" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidfieldnamematchingtypename" priority="3">
+AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="AvoidFieldNameMatchingTypeName" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidfieldnamematchingtypename" priority="3">
+AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#beanmembersshouldserialize" priority="3">
+BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="26" endline="26" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="26" endline="26" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="56" endline="63" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'set' (lines '56'-'63').
+</violation>
+<violation beginline="56" endline="63" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'set' (lines '56'-'63').
+</violation>
+<violation beginline="57" endline="60" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '57'-'60').
+</violation>
+<violation beginline="57" endline="60" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '57'-'60').
+</violation>
+<violation beginline="60" endline="60" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '60'-'60').
+</violation>
+<violation beginline="60" endline="60" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'password' (lines '60'-'60').
+</violation>
+<violation beginline="70" endline="70" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="70" endline="70" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="70" endline="70" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="70" endline="70" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="labcodeinspection" class="Email" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+</file>
+<file name="src/main/java/labcodeinspection/EmailApp.java">
+<violation beginline="6" endline="29" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="6" endline="29" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="8" endline="26" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="26" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="14" endline="14" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="14" endline="14" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="17" endline="17" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="17" endline="17" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="labcodeinspection" class="EmailApp" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+</file>
+</pmd>
